@@ -10,7 +10,7 @@
 
 
 ## Мои проекты
-- [CMS Website Upload Automation](https://github.com/yauheni-kavetski/cms-site-automator) — бот на Python для поиска и бронирования отелей по API через Amadeus (реализованы: inline-клавиатура, календарь, пагинация, история).
+- [CMS Website Upload Automation](https://github.com/yauheni-kavetski/cms-site-automator) — проект на Python, который автоматизирует генерацию контента, его систематизацию в эксель и БД и автоматическую загрузку в БД на сайтах с CMS Joomla и Wordpress.
 - [Python Telegram Bot for Hotel Search](https://github.com/yauheni-kavetski/telegram-bot-api-hotel-search) — бот на Python для поиска и бронирования отелей по API через Amadeus (реализованы: inline-клавиатура, календарь, пагинация, история).
 - [My Joomla website](https://beltran.by) — динамический мультиязычный сайт на Joomla 3 с информацией об оказываемых мною услугах в области перевода текстов.
 - [Python File Synchronization Service](https://github.com/yauheni-kavetski/pc-to-close-file-synchronization-service) — сервис на Python для синхронизации файлов между локальными и облачными хранилищами, позволяющий в автоматическом режиме обеспечивать загрузку, обновление и удаление файлов и папок в облаке.
